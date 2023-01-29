@@ -7,4 +7,4 @@
 <p>
   <img src="upload/preview-clean.png"/>
 </p>
-Go to: https://yevheniiorhanistyi.github.io/simple/
+Go to: https://yevheniiorhanistyi.github.io/Simple/
